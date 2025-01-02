@@ -39,7 +39,7 @@ body{
     /* border: 2px dotted #c5c5c5;*/
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-content: center;
     justify-content: center;
     align-items: center;
